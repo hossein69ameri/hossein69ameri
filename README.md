@@ -1,4 +1,3 @@
-<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/103646893/212551968-396a0e12-6b20-4d87-8981-95814ef70493.png)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="match_parent" height="200" />
 <h1 align="center">Hi , I'm Hossein Ameri</h1>
 <h3 align="center">Android Developer</h3>
 
