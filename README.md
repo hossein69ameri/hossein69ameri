@@ -1,7 +1,15 @@
-<h1 align="center">Hi , I'm HosseinAmeri</h1>
+<h1 align="center">Hi , I'm Hossein Ameri</h1>
 <h3 align="center">Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossein69ameri&label=Profile%20views&color=0e75b6&style=flat" alt="hossein69ameri" /> </p>
+
+- I’m currently working on **Freelancer**
+
+- I’m currently learning **Advanced Concepts Of Android**
+
+- I’m looking to collaborate on **Android Projects**
+
+- How to reach me **hossein.arabameri69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
